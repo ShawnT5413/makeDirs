@@ -1,0 +1,5 @@
+; 権限,所有者:グループ,ディレクトリパス
+755,root:root,/work/it1/t01/
+750,sysg:sysg,/work/it1/t01/teams/
+700,sysg:sysg,/work/it1/t01/teams/log/
+700,sysg:sysg,/work/it1/t01/teams/shell/
